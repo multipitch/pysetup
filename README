@@ -7,7 +7,7 @@ It also assumes that the virtualenv and the destination folder don't already
 exist.
 
 Usage:
-./pysetup PROJECT_NAME PYTHON_VERSION
+./pysetup.sh PROJECT_NAME PYTHON_VERSION
 e.g
-./pysetup my_new_project 3.8.0
+./pysetup.sh my_new_project 3.8.0
  

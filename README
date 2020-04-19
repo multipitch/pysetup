@@ -1,0 +1,13 @@
+pysetup
+
+Contains a simple script to set up a new python project the way I like it.
+This assumed pyenv, virtualenv and virtualenvwrapper are installed.
+It also assumes the correct target python version is installed via pyenv.
+It also assumes that the virtualenv and destination folder don't already
+exist.
+
+Usage:
+./pysetup PROJECT_NAME PYTHON_VERSION
+e.g
+./pysetup my_new_project 3.8.0
+ 
